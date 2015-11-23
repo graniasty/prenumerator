@@ -1,0 +1,22 @@
+29-10-2014
+
+wyświetlanie tła powoduje, że var_dumpy staja się nieczytelne, muszę zablokować wyświetlanie tła - zrobione - zakomentowalem odnośnik do pliku
+ graficznego w pliku style.css
+
+Nadaję użytkowników do testów:
+
+użytkownik John Smith login johny haslo one kategoria 1
+użytkownik Mary Lou login mary haslo two kategoria 2
+użytkownik Simply login simply haslo three kategoria 3
+
+
+Lista rzeczy do zrobienia:
+    - validacja wprowadzanych danych powinna odbywać się w JS
+uzytkownicy zrobieni
+
+zrobione jest wyświetlanie listy prenumeratorów
+zrobione jest ekran dodawania prenumeratora
+
+do zrobienia - ekran edycji prenumeratora
+ControllerSaveEditPrenum
+    robi update bazy dla danego prenum
